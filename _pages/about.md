@@ -6,6 +6,54 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About
+
+I am a professor and Acting Dean at the College of Design, National Taipei University of Technology (NTUT), Taiwan.
+
+My research focuses on:
+
+- AI-enhanced industrial design  
+- Design education and research methodology  
+- Biomimicry-inspired design  
+- Human–AI co-creation and generative AI  
+
+My work aims to integrate machine learning, generative AI, and design methodology to support innovation, knowledge translation, and interdisciplinary collaboration.
+
+---
+
+## Research Direction
+
+I am particularly interested in developing a **Generate–Explore–Evaluate framework** for AI-enhanced industrial design:
+
+- **Generate**: using generative AI to expand design possibilities  
+- **Explore**: applying machine learning to analyze and classify design concepts  
+- **Evaluate**: validating design decisions through data and experimentation  
+
+---
+
+## Academic Contributions
+
+My research bridges:
+
+- Industrial design practice  
+- AI and machine learning  
+- Design theory and methodology  
+- Education and learning innovation  
+
+Recent work includes:
+
+- Retrieval-Augmented Generation (RAG) systems for biomimicry design  
+- AI-supported design creativity and cognition  
+- Machine learning for product form and style analysis  
+
+---
+
+## Contact
+
+- 📍 Taipei, Taiwan  
+- 🏫 National Taipei University of Technology  
+- 🔬 Design × AI × Innovation  
+
 Welcome to my academic website.
 
 I am a professor and Acting Dean at the College of Design, National Taipei University of Technology. My research focuses on AI-enhanced industrial design, design education, biomimicry-inspired design, and human–AI co-creation.
