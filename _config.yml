@@ -24,9 +24,9 @@ repository               : "wang2804/wang2804.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hung-Hsiang Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Professor and Acting Dean,specializing in AI-enhanced industrial design, biomimicry, and design cognition."
   location         : "Taipei, Taiwan"
   employer         : "National Taipei University of Technology"
   uri              : # URL
