@@ -1,0 +1,15 @@
+---
+title: "Enhancing Multi-Region Target Search Efficiency Through Integrated Peripheral Vision and Head-Mounted Display Systems"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-information-hmd
+date: 2025-09-01
+venue: "Information"
+citation: "Wang, H. H., et al. (2025). Enhancing Multi-Region Target Search Efficiency Through Integrated Peripheral Vision and Head-Mounted Display Systems. Information, 16(9), 800."
+doi: "10.3390/information16090800"
+paperurl: "https://www.mdpi.com/2078-2489/16/9/800"
+selected: true
+topic: human_factors_ux
+---
+
+Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
