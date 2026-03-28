@@ -23,7 +23,7 @@ repository               : "wang2804/wang2804.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "/images/profile.png"
   name             : "Hung-Hsiang Wang"
   pronouns         : # example: "she/her"  
   bio              : "Professor and Acting Dean,specializing in AI-enhanced industrial design, biomimicry, and design cognition."
